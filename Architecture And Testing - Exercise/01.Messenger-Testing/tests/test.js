@@ -3,7 +3,7 @@ const { expect } = require('chai');
 
 let browser, page;
 
-describe('Accordion tests', function () {
+describe('Messenger tests', function () {
   this.timeout(6000);
 
   before(async () => {
