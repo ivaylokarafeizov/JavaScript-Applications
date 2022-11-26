@@ -1,4 +1,3 @@
-
 import { showLogin } from './views/login.js';
 import { logout } from './api/users.js';
 import { showRegister } from './views/register.js';
